@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1786 / repository commit 1
-Subject: [.claude] Update for 2026 best practices for Claude Code
-Focus: [.claude], Update, for, 2026, best
+Sequence: 102 / repository commit 2
+Subject: Add graph engineering /graph DAG support with JSON-schema hand-offs
+Focus: Add, graph, engineering, /graph, DAG
