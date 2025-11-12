@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1492 / repository commit 19
-Subject: Add examples for graph-of-loops thesis
-Focus: Add, examples, for, graph-of-loops, thesis
+Sequence: 1546 / repository commit 20
+Subject: Fix skill not working in Claude.ai API
+Focus: Fix, skill, not, working, Claude.ai
