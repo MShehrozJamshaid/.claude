@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1567 / repository commit 21
-Subject: Implement skill installation via marketplace add
-Focus: Implement, skill, installation, via, marketplace
+Sequence: 1571 / repository commit 22
+Subject: Fix broken links for graph engineering tutorials
+Focus: Fix, broken, links, for, graph
