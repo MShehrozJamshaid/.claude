@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1546 / repository commit 20
-Subject: Fix skill not working in Claude.ai API
-Focus: Fix, skill, not, working, Claude.ai
+Sequence: 1567 / repository commit 21
+Subject: Implement skill installation via marketplace add
+Focus: Implement, skill, installation, via, marketplace
