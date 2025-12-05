@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1684 / repository commit 24
-Subject: Implement Perez graph-of-loops thesis documentation
-Focus: Implement, Perez, graph-of-loops, thesis, documentation
+Sequence: 1698 / repository commit 25
+Subject: Add JSON-schema hand-offs for adversarial verification
+Focus: Add, JSON-schema, hand-offs, for, adversarial
