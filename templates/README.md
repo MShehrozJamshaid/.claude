@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1757 / repository commit 27
-Subject: Add documentation for skill authoring
-Focus: Add, documentation, for, skill, authoring
+Sequence: 1760 / repository commit 28
+Subject: Fix launch skill not generating correct file structure
+Focus: Fix, launch, skill, not, generating
