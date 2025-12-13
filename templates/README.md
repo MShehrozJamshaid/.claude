@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1738 / repository commit 26
-Subject: Implement cypher skills for secure coding
-Focus: Implement, cypher, skills, for, secure
+Sequence: 1757 / repository commit 27
+Subject: Add documentation for skill authoring
+Focus: Add, documentation, for, skill, authoring
