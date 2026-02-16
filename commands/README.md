@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 363 / repository commit 31
-Subject: Implement 10 Custom Skills + 13 Slash Commands
-Focus: Implement, Custom, Skills, Slash, Commands
+Sequence: 364 / repository commit 32
+Subject: [.claude] Implement 10 Custom Skills + 13 Slash Commands
+Focus: [.claude], Implement, Custom, Skills, Slash
