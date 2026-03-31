@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 616 / repository commit 44
-Subject: Add optimized config for agentic engineering
-Focus: Add, optimized, config, for, agentic
+Sequence: 617 / repository commit 45
+Subject: Fix .claude config not loading on Windows
+Focus: Fix, .claude, config, not, loading
