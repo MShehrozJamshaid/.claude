@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 923 / repository commit 71
-Subject: Implement 10 Custom Skills + 13 Slash Commands
-Focus: Implement, Custom, Skills, Slash, Commands
+Sequence: 932 / repository commit 72
+Subject: Fix .claude config not loading on Windows
+Focus: Fix, .claude, config, not, loading
