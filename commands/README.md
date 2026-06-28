@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1147 / repository commit 83
-Subject: Fix .claude config not loading on Windows
-Focus: Fix, .claude, config, not, loading
+Sequence: 1148 / repository commit 84
+Subject: [.claude] Add 83+ Specialized AI Agents across Haiku/Sonnet/Opus
+Focus: [.claude], Add, 83+, Specialized, Agents
