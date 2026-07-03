@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1170 / repository commit 85
-Subject: Update for 2026 best practices for Claude Code
-Focus: Update, for, 2026, best, practices
+Sequence: 1181 / repository commit 86
+Subject: Fix .claude config not loading on Windows
+Focus: Fix, .claude, config, not, loading
